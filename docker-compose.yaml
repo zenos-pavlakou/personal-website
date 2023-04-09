@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+
+
+  zenos_website:
+    build:
+        context: .
+    volumes:
+      - files:/usr/*
+    ports:
+      - "80:80"
+      - "2225:22"
+
+
+
+volumes:
+  files:
