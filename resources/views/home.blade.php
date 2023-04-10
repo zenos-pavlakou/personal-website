@@ -182,7 +182,7 @@
 					:bullet-points="[
 						'Developed a bot that periodically obtains and stores information about vehicles using registration plates', 
 						'Configured one of the company\'s internal systems to work with session recording software. I did this to help with the identification of bugs in a time-efficient way. I took my initiative to do this and ever since the IT department has been making use of this solution', 
-						'Helped train some of my coleagues in how to use Vue JS and webpack in preparation for a new project',
+						'Helped train coleagues in how to use Vue JS and webpack in preparation for a new project',
 						'Built APIs using Python with Flask and containerized them using Docker for fast and easy deployment',
 					
 					]"
