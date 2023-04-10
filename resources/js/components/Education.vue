@@ -9,7 +9,10 @@
 				<div class="flex-space-between mt-4" :class="this.education_lg ? '' : 'hide'">
 					<div style="">
 						<h4>University of Sussex</h4>
-						<p>BSc with Honours in Computer Science</p>
+						<p>
+							BSc with Honours in Computer Science <br>
+							First Class
+						</p>
 					</div>
 					<div style="text-align:right;">
 						<h5>Sussex</h5>
