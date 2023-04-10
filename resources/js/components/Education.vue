@@ -24,8 +24,11 @@
 				<div class="flex-space-between mt-4" :class="this.education_lg ? 'hide' : ''">
 					<div style="text-align:left;">
 						<h4>University of Sussex</h4>
-						<p>BSc with Honours in Computer Science<br>
-						Sep 2016 - June 2019</p>
+						<p>
+							BSc with Honours in Computer Science<br>
+							First Class <br>
+							Sep 2016 - June 2019
+						</p>
 					</div>
 				</div>
 
