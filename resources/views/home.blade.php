@@ -177,7 +177,7 @@
 					location="Nicosia, Cyprus"
 					intro="
 						<p>
-							I started working for this company as I wanted to improve my skills in full-stack development using Laravel. Having said that, other than full-stack development, I also work on building microservices, APIs, and improving the performance and reliability of existing systems. So far, at this company, I:
+							I started working for this company as I wanted to improve my skills in full-stack development using Laravel. However, other than full-stack development, I also work on building microservices, APIs, and improving the performance and reliability of existing systems. So far, at this company, I:
 						</p>"
 					:bullet-points="[
 						'Developed a bot that periodically obtains and stores information about vehicles using registration plates', 
