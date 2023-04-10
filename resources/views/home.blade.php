@@ -171,17 +171,17 @@
 
 				<work-experience
 					company="Trust Insurance Cyprus"
-					title="Software Developer"
+					title="Full Stack Developer"
 					from-date="March 2023"
 					to-date="Present"
 					location="Nicosia, Cyprus"
 					intro="
 						<p>
-							Trust Insurance Cyprus is one the top insurance companies in Cyprus. I started working for this company as I wanted to improve my skills in full-stack development using Laravel. Having said that, other than full-stack development, I also work on building microservices, APIs, and improving the performance and reliability of existing systems. In addition to this, I also regularly provide technical support to other employees of the company. So far, at this company, I:
+							I started working for this company as I wanted to improve my skills in full-stack development using Laravel. Having said that, other than full-stack development, I also work on building microservices, APIs, and improving the performance and reliability of existing systems. So far, at this company, I:
 						</p>"
 					:bullet-points="[
-						'Developed a bot that periodically obtains and stores information about vehicles using a list of number plates', 
-						'Configured one of the company\'s internal systems to work with session recording software. I did this to help with the identification of bugs in a time-efficient and highly accurate way. I took my initiative to do this and ever since the IT department has been making use of this solution and it has helped us to resolve multiple issues that may have otherwise gone unnoticed', 
+						'Developed a bot that periodically obtains and stores information about vehicles using registration plates', 
+						'Configured one of the company\'s internal systems to work with session recording software. I did this to help with the identification of bugs in a time-efficient way. I took my initiative to do this and ever since the IT department has been making use of this solution', 
 						'Helped train some of my coleagues in how to use Vue JS and webpack in preparation for a new project',
 						'Built APIs using Python with Flask and containerized them using Docker for fast and easy deployment',
 					
