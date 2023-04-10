@@ -14,8 +14,8 @@
 				<img class="prof-pic" src="/imgs/zen.jpg">
 				<p class="white-txt sub-heading">Zenos Pavlakou</p>
 				<p style="margin-top:-7px;">
-					Full Stack Developer<br>
-					Solidity & Web3 Developer
+					Python Developer<br>
+					Full-Stack & Web3 Developer
 				</p>
 			</div>
 
