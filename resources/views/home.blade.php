@@ -104,13 +104,14 @@
 			<div class="witten-content rounded mt-3 white-txt" id="about-me">
 				<h1 class="mb-3">About me</h1>
 				<p>
-					Hi there! I'm Zenos Pavlakou, a passionate programmer who enjoys taking on new challenges and solving complex problems. I found my passion for programming during my time at university and I have been captivated ever since.<br><br>
+					Hi there! I'm Zenos Pavlakou, a passionate programmer who enjoys taking on new challenges and solving complex problems. I found my passion for programming during my time at university and I have been captivated ever since.
+					<br><br>
 
-					What I enjoy most about programming is the way it allows me to turn my ideas into reality. One example of this is <a href="https://cryptomultisender.com" target="_blank">Crypto Multisender</a> which I built from the ground up. Since its release, the platform has been used regularly by various startup companies and the total value of all crypto assets processed by the platform exceeds $30,000,000.<br><br>
+					What I enjoy most about programming is the way it allows me to turn my ideas into reality. One example of this is <a href="https://cryptomultisender.com" target="_blank">Crypto Multisender</a> which I built from the ground up. Since its release, the platform has been used regularly by various startup companies and the total value of all crypto assets processed by the platform exceeds $30,000,000.<br>
 
-					I was able to achieve this because I believe that with the right tools and mindset, anything is possible. That's why I approach every project with a can-do attitude and a willingness to learn and adapt as needed. Whether I'm working on a small-scale project or a large-scale application, I take pride in my attention to detail and my commitment to delivering high-quality work.<br>
+					<!-- I was able to achieve this because I believe that with the right tools and mindset, anything is possible. That's why I approach every project with a can-do attitude and a willingness to learn and adapt as needed. Whether I'm working on a small-scale project or a large-scale application, I take pride in my attention to detail and my commitment to delivering high-quality work.<br> -->
 
-					<!-- In short, I'm a dedicated and enthusiastic programmer who is always ready to take on new challenges and push the boundaries of what's possible. If you're looking for someone who is driven, creative, and committed to excellence, I would love to hear from you! -->
+					
 				</p>
 			</div>
 
@@ -371,7 +372,7 @@
 			            </h2>
 			            <div id="item4Collapse" class="accordion-collapse collapse" aria-labelledby="item4Header" data-bs-parent="#itemAccordion">
 			              <div class="accordion-body accordion-body-inner">
-							<p>I see constructive criticism and feedback as opportunities for growth and improvement, and I welcome it with an open mind. I listen actively, ask questions to clarify points that are unclear, and reflect on the feedback to see how I can improve. Then, I create an action plan and put it into practice. I take ownership of my mistakes and strive to continuously improve my skills and performance.</p>
+							<p>I see constructive criticism and feedback as opportunities for growth and improvement, and I welcome it with an open mind. I listen actively, ask questions to clarify points that are unclear, and reflect on the feedback to see how I can improve. I also take ownership of my mistakes and strive to continuously improve my skills and performance.</p>
 			              </div>
 			            </div>
 			          </div>
@@ -387,10 +388,7 @@
 			            </h2>
 			            <div id="item5Collapse" class="accordion-collapse collapse" aria-labelledby="item5Header" data-bs-parent="#itemAccordion">
 			              <div class="accordion-body accordion-body-inner">
-							<p>What makes me unique is my passion for programming and my drive to continuously improve my skills. I see programming not just as a job, but as a hobby and a personal interest that I am truly passionate about.</p>
-
-							<p>This passion and drive for programming translates into my work, where I bring a strong technical skill set to the table and am always looking for ways to improve and innovate. Additionally, I am a strong communicator and collaborator, which allows me to work effectively with others to develop creative solutions to complex problems.</p>
-
+							<p>I have a product-driven mindset and can take an idea and deliver results that create real user value.</p>
 			              </div>
 			            </div>
 			          </div>

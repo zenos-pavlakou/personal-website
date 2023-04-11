@@ -9,6 +9,12 @@
 
 @import './mix';
 
+.emoji {
+	color:rgba(255, 201, 46, 0.75)!important;
+	margin-left: 5px;
+	font-size:1.2rem;
+}
+
 .accordion {
     --bs-accordion-border-color: rgba(0,0,0,0.1);
     --bs-accordion-border-width: 1px;

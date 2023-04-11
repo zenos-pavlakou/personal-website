@@ -1,8 +1,10 @@
 <template>
 			<div class="witten-content rounded mt-3 white-txt" id="education">
 				
-				
-				<h1 class="mb-3">Education</h1>
+				<div class="flex-space-between">
+					<h1 class="mb-3">Education</h1> 
+					<i class="fas fa-graduation-cap gown"></i>
+				</div>
 				
 
 
@@ -70,6 +72,11 @@
 </script>
 
 <style scoped>
+
+	.gown {
+		font-size: 2rem!important;
+		color:rgba(62, 62, 72,0.75);
+	}
 
 	.degree-button-container {
 		width:160px!important;
