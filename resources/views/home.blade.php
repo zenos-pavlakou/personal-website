@@ -261,6 +261,7 @@
 
 			</div> -->
 
+			<education></education>
 
 			<div class="witten-content rounded mt-3 white-txt" id="hobbies-interests">
 				<div id="-hobbies-interests" style="position: absolute; top:-15px;"></div>
@@ -272,9 +273,6 @@
 
 			</div>
 
-
-			
-			<education></education>
 
 
 			<div class="accordion mt-4 mb-4" id="faqAccordion" id="about-me">
