@@ -166,29 +166,32 @@
 				<div id="-work-experience" style="position: absolute; top:-15px;"></div>
 				<h1 class="mb-4">Work experience</h1>
 
-
 				<hr class="my-4">
 
-
 				<work-experience
-					company="Trust Insurance Cyprus"
-					title="Full Stack Developer"
-					from-date="March 2023"
+					company="Crypto Multisender"
+					title="Founder & Developer"
+					from-date="July 2018"
 					to-date="Present"
-					location="Nicosia, Cyprus"
+					location="Remote"
 					intro="
 						<p>
-							I started working for this company as I wanted to improve my skills in full-stack development using Laravel. However, other than full-stack development, I also work on building microservices, APIs, and improving the performance and reliability of existing systems. So far, at this company, I:
-						</p>"
+							Crypto Multisender is a decentralized software solution that automates the distribution of crypto assets.
+							These assets include, but are not limited to Ethereum, ERC20 tokens and NFTs. Since the launch of
+							Crypto Multisender, the platform has been used by over 800 blockchain companies and projects to
+							distribute crypto assets to over 2,500,000 recipients with a total value of upwards of $30,000,000. I built the
+							software entirely on my own and for this I:
+						</p>
+					"
 					:bullet-points="[
-						'Developed a bot that periodically obtains and stores information about vehicles using registration plates', 
-						'Configured one of the company\'s internal systems to work with session recording software. I did this to help with the identification of bugs in a time-efficient way. I took my initiative to do this and ever since the IT department has been making use of this solution', 
-						'Helped train coleagues in how to use Vue JS and webpack in preparation for a new project',
-						'Built APIs using Python with Flask and containerized them using Docker for fast and easy deployment',
-					
+						'Developed the smart contracts that power the Crypto Multisender system', 
+						'Configured the backend to use an NGINX server', 
+						'Built the website using Laravel and Vue JS',
+						'Enabled the frontend to interact with the smart contracts using Web3',
+						'Developed an API and several microservices for the website using the Flask module in Python',
+						'Built an entire CMS for those with admin privileges'
 					]"
 				></work-experience>
-
 
 				<hr class="my-4">
 
@@ -217,32 +220,6 @@
 					]"
 				></work-experience>
 
-				<hr class="my-4">
-
-				<work-experience
-					company="Crypto Multisender"
-					title="Founder & Developer"
-					from-date="July 2018"
-					to-date="Present"
-					location="Remote"
-					intro="
-						<p>
-							Crypto Multisender is a decentralized software solution that automates the distribution of crypto assets.
-							These assets include, but are not limited to Ethereum, ERC20 tokens and NFTs. Since the launch of
-							Crypto Multisender, the platform has been used by over 800 blockchain companies and projects to
-							distribute crypto assets to over 2,500,000 recipients with a total value of upwards of $30,000,000. I built the
-							software entirely on my own and for this I:
-						</p>
-					"
-					:bullet-points="[
-						'Developed the smart contracts that power the Crypto Multisender system', 
-						'Configured the backend to use an NGINX server', 
-						'Built the website using Laravel and Vue JS',
-						'Enabled the frontend to interact with the smart contracts using Web3',
-						'Developed an API and several microservices for the website using the Flask module in Python',
-						'Built an entire CMS for those with admin privileges'
-					]"
-				></work-experience>
 
 
 				<hr class="my-4">
