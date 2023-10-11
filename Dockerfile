@@ -26,12 +26,13 @@ libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 lib
 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3  \
 lsb-release xdg-utils wget
 
+RUN echo 1
+
 RUN mkdir /usr/src/app/personal_website
 
 RUN apt-get update && apt-get install -y git
 
 RUN git clone https://github.com/zenos-pavlakou/personal-website /usr/src/app/personal_website
-
 
 COPY ./extra_files/git_setup.sh /usr/src/app/git_setup.sh
 RUN chmod 777 /usr/src/app/git_setup.sh
