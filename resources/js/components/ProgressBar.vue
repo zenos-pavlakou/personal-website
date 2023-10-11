@@ -37,7 +37,7 @@
 
               function counterInit( fValue, lValue ) {
 
-                var counter_value = parseInt( $('.'+vm.counterClass).text() );
+                var counter_value = parseInt( $('.'+vm.counterClass).text() ) * 10;
                 counter_value++;
                 vm.prog += 1;
                 if( counter_value >= fValue && counter_value <= lValue ) {
