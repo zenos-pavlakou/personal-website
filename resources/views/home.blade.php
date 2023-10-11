@@ -166,6 +166,35 @@
 				<div id="-work-experience" style="position: absolute; top:-15px;"></div>
 				<h1 class="mb-4">Work experience</h1>
 
+
+
+				<hr class="my-4">
+
+				<work-experience
+					company="ARK36"
+					title="Software Developer"
+					from-date="May 2023"
+					to-date="Present"
+					location="Larnaca"
+					intro="
+						<p>
+							ARK36 is an alternative asset hedge-fund that specializes in trading cryptocurrencies. 
+							During my time at ARK36, I:
+						</p>
+					"
+					:bullet-points="[
+						'Developed and implemented robust software solutions, resulting in increased efficiency and productivity for the company', 
+						'Maintained and optimized a Django backend for the internal tools of the organization', 
+						'Worked on machine learning tasks for predicting crypto prices.',
+						'Implemented unique and complex algorithms for automated trading.',
+					]"
+				></work-experience>
+
+				<hr class="my-4">
+
+
+
+
 				<hr class="my-4">
 
 				<work-experience

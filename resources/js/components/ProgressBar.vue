@@ -2,7 +2,7 @@
     <div class="container-xxl skill-container mb-3">
         <div class="flex-space-between">
             <span class="white-txt">{{this.skill}}</span>
-            <span class="white-txt">{{this.prog}}%</span>
+            <span class="white-txt">{{this.prog}}/10</span>
         </div>
         <div class="counter" :class="counterClass" style="display: none">0</div>
         <div class="progressbar" :class="progressbarClass">
@@ -42,8 +42,8 @@
                 vm.prog += 1;
                 if( counter_value >= fValue && counter_value <= lValue ) {
 
-                  $('.'+vm.counterClass).text( counter_value + '%' );
-                  progress.css({ 'width': counter_value + '%' });
+                  $('.'+vm.counterClass).text( counter_value + '/10' );
+                  progress.css({ 'width': counter_value + '/10' });
 
                   setTimeout( function() {
                     counterInit( fValue, lValue );
