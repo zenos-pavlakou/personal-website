@@ -50,7 +50,7 @@ RUN composer update --ignore-platform-reqs
 RUN composer install --ignore-platform-reqs
 RUN composer require spatie/laravel-cookie-consent
 RUN composer require spatie/laravel-server-side-rendering --ignore-platform-reqs
-RUN apt install python2 -y
+
 RUN apt install python3 -y
 RUN apt install iputils-ping -y
 RUN rm package-lock.json
