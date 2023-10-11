@@ -42,7 +42,7 @@
                 vm.prog += 1;
                 if( counter_value >= fValue && counter_value <= lValue ) {
 
-                  $('.'+vm.counterClass).text( (counter_value/10) + '/10' );
+                  $('.'+vm.counterClass).text( counter_value + '/10' );
                   progress.css({ 'width': counter_value + '%' });
 
                   setTimeout( function() {
