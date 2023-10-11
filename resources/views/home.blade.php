@@ -190,8 +190,6 @@
 					]"
 				></work-experience>
 
-				<hr class="my-4">
-
 
 
 
