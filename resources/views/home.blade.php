@@ -181,7 +181,7 @@
 				<work-experience
 					company="ARK36"
 					title="Software Developer"
-					from-date="May 2023"
+					from-date="March 2023"
 					to-date="Present"
 					location="Larnaca"
 					intro="
