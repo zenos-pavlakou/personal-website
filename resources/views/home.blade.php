@@ -207,7 +207,7 @@
 					company="Crypto Multisender"
 					title="Founder & Developer"
 					from-date="July 2018"
-					to-date="Present"
+					to-date="March 2023"
 					location="Remote"
 					intro="
 						<p>
