@@ -191,10 +191,10 @@
 						</p>
 					"
 					:bullet-points="[
-						'Developed and implemented robust software solutions, resulting in increased efficiency and productivity for the company', 
+						'Designed and implemented automated software solutions using Python', 
 						'Maintained and optimized a Django backend for the internal tools of the organization', 
-						'Worked on machine learning tasks for predicting crypto prices.',
-						'Implemented unique and complex algorithms for automated trading.',
+						'Worked on machine learning tasks for predicting crypto prices',
+						'Implemented unique and complex algorithms for automated trading',
 					]"
 				></work-experience>
 
