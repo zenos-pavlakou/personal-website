@@ -59,7 +59,7 @@
 
 
 					<progress-bar skill="PHP" :val=6 :delay=9.3></progress-bar>
-					<progress-bar skill="Java" :val=3 :delay=26></progress-bar>
+					<progress-bar skill="Java" :val=4 :delay=26></progress-bar>
 					<progress-bar skill="Docker" :val=5 :delay=26></progress-bar>
 					<progress-bar skill="Git" :val=8 :delay=9></progress-bar>
 					<progress-bar skill="MySQL" :val=4 :delay=26></progress-bar>
@@ -161,7 +161,7 @@
 					<progress-bar skill="Linux" :val=7 :delay=9></progress-bar>
 				</div>
 				<div class="flex-space-between">
-					<progress-bar skill="Java" :val=3 :delay=26></progress-bar>
+					<progress-bar skill="Java" :val=4 :delay=26></progress-bar>
 					<progress-bar skill="SEO" :val=7 :delay=9></progress-bar>
 				</div>
 
