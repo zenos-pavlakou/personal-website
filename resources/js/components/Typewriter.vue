@@ -25,7 +25,8 @@
             "PHP Developer",
             "JS Developer", 
             "Vue.js Developer",
-            "Laravel Developer", 
+            "Laravel Developer",
+            "Django Developer", 
             "Solidity Developer",
             "Web3 Developer"
         ],
