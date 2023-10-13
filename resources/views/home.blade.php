@@ -11,11 +11,10 @@
 
 
 			<div class="about-me-header">
-				<img class="prof-pic" src="/imgs/zen.jpg">
+				<img class="prof-pic" src="/imgs/me.webp">
 				<p class="white-txt sub-heading">Zenos Pavlakou</p>
 				<p style="margin-top:-7px;">
-					Python Developer<br>
-					Full-Stack & Web3 Developer
+					A passionate and innovative software developer
 				</p>
 			</div>
 
@@ -54,6 +53,11 @@
 					<progress-bar skill="Solidity" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="NGINX" :val=3 :delay=26></progress-bar>
 					<progress-bar skill="Laravel" :val=7 :delay=9.3></progress-bar>
+
+					<progress-bar skill="Django" :val=4 :delay=30></progress-bar>
+					<progress-bar skill="Machine Learning" :val=3 :delay=26></progress-bar>
+
+
 					<progress-bar skill="PHP" :val=6 :delay=9.3></progress-bar>
 					<progress-bar skill="Docker" :val=5 :delay=26></progress-bar>
 					<progress-bar skill="Git" :val=8 :delay=9></progress-bar>
@@ -138,6 +142,10 @@
 				<div class="flex-space-between">
 					<progress-bar skill="NGINX" :val=3 :delay=26></progress-bar>
 					<progress-bar skill="Laravel" :val=7 :delay=9.3></progress-bar>
+				</div>
+				<div class="flex-space-between">
+					<progress-bar skill="Django" :val=4 :delay=30></progress-bar>
+					<progress-bar skill="Machine Learning" :val=3 :delay=26></progress-bar>
 				</div>
 				<div class="flex-space-between">
 					<progress-bar skill="PHP" :val=6 :delay=9.3></progress-bar>
