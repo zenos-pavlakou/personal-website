@@ -297,17 +297,6 @@
 			</div> -->
 
 
-			<div class="witten-content rounded mt-3 white-txt" id="hobbies-interests">
-				<div id="-hobbies-interests" style="position: absolute; top:-15px;"></div>
-				<h1 class="mb-3">Hobbies & Interests</h1>
-				<p>
-					In my free time, I have a range of hobbies and interests that I am enthusiastic about. During the summer months, I like to explore the beauty of the underwater world through freediving and snorkeling. Also, as someone who is passionate about software development, I enjoy learning new technologies and I love a good hackathon! In addition to this, I also like to travel and explore new places, Europe being my favourite. I find traveling to be a great way to broaden my perspective and gain new insights into different cultures and ways of life. 
-				</p>
-
-
-			</div>
-
-
 			
 			<education></education>
 
@@ -429,6 +418,15 @@
 			      </div>
 			    </div>
 			  </div>
+			</div>
+			<div class="witten-content rounded mt-3 white-txt" id="hobbies-interests">
+				<div id="-hobbies-interests" style="position: absolute; top:-15px;"></div>
+				<h1 class="mb-3">Hobbies & Interests</h1>
+				<p>
+					In my free time, I have a range of hobbies and interests that I am enthusiastic about. During the summer months, I like to explore the beauty of the underwater world through freediving and snorkeling. Also, as someone who is passionate about software development, I enjoy learning new technologies and I love a good hackathon! In addition to this, I also like to travel and explore new places, Europe being my favourite. I find traveling to be a great way to broaden my perspective and gain new insights into different cultures and ways of life. 
+				</p>
+
+
 			</div>
 
 		</div>
