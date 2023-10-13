@@ -43,7 +43,7 @@
 				<hr>
 
 				<div class="programming-languages">
-					<progress-bar skill="HTML" :val=9 :delay=8></progress-bar>
+					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
 					<progress-bar skill="CSS" :val=8 :delay=8.5></progress-bar>
 					<progress-bar skill="Web3" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="Python" :val=8 :delay=9></progress-bar>
@@ -125,7 +125,7 @@
 				<h1 class="mb-3">Skills and proficiencies</h1>
 
 				<div class="flex-space-between">
-					<progress-bar skill="HTML" :val=9 :delay=8></progress-bar>
+					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
 					<progress-bar skill="CSS" :val=8 :delay=8.5></progress-bar>
 				</div>
 				<div class="flex-space-between">
