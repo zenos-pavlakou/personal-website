@@ -248,7 +248,7 @@
 					:bullet-points="[
 						'Crafted data pipelines for leading clients such as EasyJet and British Airways, enhancing data workflow.',
 						'Made a suite of in-house automation tools that streamlined workflows, leading to a 60% reduction in manual hours spent on frequent, time-consuming tasks.',
-						'Collaborated on the development of internal web applications using Laravel and Vue, contributing to enhanced functionality and optimising execution times of server-side processes by up to 3x.',
+						'Collaborated on the development of internal applications using Laravel and Vue, contributing to enhanced functionality and optimising execution times of server-side processes by up to 3x.',
 						'Directed the research and implementation of an automated web scraper, focusing on critical data points and competitor insights. This effort provided the SEO department with frequently updated and comprehensive data reports, bolstering strategic approaches.',
 						'Took initiative and developed software combining data from Google Search Console, Google Analytics, and Page Speed Insights, leading to accelerated internal procedures, enhancing overall operational efficiency for the SEO and Analytics departments.'
 					]"
