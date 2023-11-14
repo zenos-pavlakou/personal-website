@@ -241,19 +241,16 @@
 					location="London"
 					intro="
 						<p>
-							Ayima is a leading company in the digital marketing and SEO industry. I started working for this company
-							right after graduating from university. I originally joined as a data developer, however, after some time I
-							took on other technical tasks outside the scope of my role. Some of these tasks include web development
-							and also building technical SEO tools. During my time at Ayima, I:
+							Joined Ayima, a leading marketing and SEO agency in the UK, as a remote data developer immediately after university studies. 
+							Expanded skill set over time to encompass full stack web development and the creation of technical SEO tools.
 						</p>
 					"
 					:bullet-points="[
-						'Built automated data pipelines for multiple clients, including EasyJet and British Airways', 
-						'Designed and implemented a data warehouse using BigQuery', 
-						'Developed in-house tools for automating time-consuming tasks for other departments of the company',
-						'Contributed to the development of several websites and web applications',
-						'Worked on building a multi-threaded and highly scalable web crawler using Python',
-						'Regularly worked with external APIs from various services, including Semrush, Ahrefs, Google Search Console, Google Analytics, Page Speed Insights and more'
+						'Crafted data pipelines for leading clients such as EasyJet and British Airways, enhancing data workflow.',
+						'Made a suite of in-house automation tools that streamlined workflows, leading to a 60% reduction in manual hours spent on frequent, time-consuming tasks.',
+						'Collaborated on the development of internal web applications using Laravel and Vue, contributing to enhanced functionality and optimising execution times of server-side processes by up to 3x.',
+						'Directed the research and implementation of an automated web scraper, focusing on critical data points and competitor insights. This effort provided the SEO department with frequently updated and comprehensive data reports, bolstering strategic approaches.',
+						'Took initiative and developed software combining data from Google Search Console, Google Analytics, and Page Speed Insights, leading to accelerated internal procedures, enhancing overall operational efficiency for the SEO and Analytics departments.'
 					]"
 				></work-experience>
 
