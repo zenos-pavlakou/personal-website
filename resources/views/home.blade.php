@@ -266,14 +266,18 @@
 					location="Remote"
 					intro="
 						<p>
-							As a student at university, I worked as a freelance developer on Fiverr, specializing in developing smart contract applications on Ethereum and other EVM blockchains. I offered services such as developing <a href='https://ethereum.org/en/developers/docs/standards/tokens/erc-20/' target='_blank'>ERC20 tokens</a>, <a href='https://en.wikipedia.org/wiki/Initial_coin_offering' target='_blank'>ICO smart contracts</a>, and <a href='https://cryptomultisender.com/blog/our-airdrop-smart-contract' target='_blank'>airdrop smart contracts</a>. During my time on Fiverr, I worked with over 50 clients, 35 of which left me a 5-star review, as can be seen on my <a href='https://www.fiverr.com/dapplecontracts?source=gig_page' target='_blank'>Fiverr profile</a>. While balancing my studies with work, I continuously updated my knowledge of the latest blockchain technologies and best practices to provide cutting-edge solutions to my clients. My experience as a freelance developer on Fiverr has provided me with a strong foundation in developing smart contract applications, project management skills, and a track record of delivering high-quality work to clients.
-						</p>
-
-						<p>
-							During my time working as a freelancer on Fiverr, I noticed that there was a high demand for the development of custom airdrop smart contracts to enable the distribution of ERC20 tokens to thousands of recipients. This observation led me to develop Crypto Multisender, a tool that is capable of distributing all ERC20 tokens and NFTs. The development of Crypto Multisender not only demonstrated my ability to identify opportunities in the market but also my proficiency in creating solutions that meet the needs of users.
+							While studying at university, undertook freelance projects via Fiverr, with a focus on 
+							<a href='https://ethereum.org/en/developers/docs/standards/tokens/erc-20/' target='_blank'>ERC20 tokens</a>,
+							<a href='https://en.wikipedia.org/wiki/Initial_coin_offering' target='_blank'>ICO smart contracts</a>, and
+							<a href='https://cryptomultisender.com/blog/our-airdrop-smart-contract' target='_blank'>airdrop smart contracts</a>. 
+							Accomplishments include:
 						</p>
 					"
-					:bullet-points="[]"
+					:bullet-points="[
+						'Collaborated with more than 50 clients, achieving 35 5-star reviews.',
+						'Launched over 20 custom ERC20 tokens.',
+						'Programmed ICO smart contracts, each with unique features and varying complexities.'	
+					]"
 				></work-experience>
 
 
