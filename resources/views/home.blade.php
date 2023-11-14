@@ -28,7 +28,7 @@
 						<span class="white-txt">City:</span><span>Larnaca</span>
 					</div>
 					<div class="flex-space-between">
-						<span class="white-txt">Age:</span><span>29</span>
+						<span class="white-txt">Age:</span><span>30</span>
 					</div>
 					
 				</div>
