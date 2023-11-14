@@ -214,20 +214,19 @@
 					location="Remote"
 					intro="
 						<p>
-							Crypto Multisender is a decentralized software solution that automates the distribution of crypto assets.
-							These assets include, but are not limited to Ethereum, ERC20 tokens and NFTs. Since the launch of
-							Crypto Multisender, the platform has been used by over 800 blockchain companies and projects to
-							distribute crypto assets to over 2,500,000 recipients with a total value of upwards of $30,000,000. I built the
-							software entirely on my own and for this I:
+							Crypto Multisender, a decentralised tool that automates the process of crypto asset distributions, 
+							has served over 800 blockchain entities, facilitating the distribution of assets to over 2.5 million 
+							recipients, with over $30 million in value.
 						</p>
 					"
 					:bullet-points="[
-						'Developed the smart contracts that power the Crypto Multisender system', 
+						'Authored the core smart contracts with the Truffle framework, employing the use of Test Driven Development (TDD).', 
+						'Designed the website using Laravel and Vue JS, resulting in a seamless user experience for hundreds of blockchain companies.',
+						'Facilitated frontend smart contract interaction using Web3.',
+						'Deployed with Docker, enhancing deployment speed and ensuring a consistent environment.',
 						'Configured the backend to use an NGINX server', 
-						'Built the website using Laravel and Vue JS',
-						'Enabled the frontend to interact with the smart contracts using Web3',
 						'Developed an API and several microservices for the website using the Flask module in Python',
-						'Built an entire CMS for those with admin privileges'
+						'Built a entire CMS for those with admin privileges.'
 					]"
 				></work-experience>
 
