@@ -1,7 +1,7 @@
 {
-    "/js/app.css": "/js/app.css?id=cc5c6baa3e2ac33ffde772e92841c21b",
-    "/js/app.js": "/js/app.js?id=1fcc283d653041b35679a0acf1575cb0",
-    "/css/app.css": "/css/app.css?id=d70fac82f2e87bcd75e0d7120e07e23a",
-    "/css/fontawesome.min.css": "/css/fontawesome.min.css?id=5ee22456a3850da064f2fd9adf263046",
-    "/files/degree.pdf": "/files/degree.pdf?id=f4c8a3b99f104846e3da009d4a7af1eb"
+    "/js/app.css": "/js/app.css",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/fontawesome.min.css": "/css/fontawesome.min.css",
+    "/files/degree.pdf": "/files/degree.pdf"
 }

@@ -42,3 +42,5 @@ RUN npm install -g npm@latest
 
 EXPOSE 22
 EXPOSE 80
+
+CMD ["php", "artisan", "serve", "--host", "0.0.0.0", "--port", "80"]
