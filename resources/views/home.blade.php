@@ -422,7 +422,7 @@
 			    </div>
 			  </div>
 			</div>
-			<div class="witten-content rounded mt-3 white-txt" id="hobbies-interests">
+			<!-- <div class="witten-content rounded mt-3 white-txt" id="hobbies-interests">
 				<div id="-hobbies-interests" style="position: absolute; top:-15px;"></div>
 				<h1 class="mb-3">Hobbies & Interests</h1>
 				<p>
@@ -430,7 +430,7 @@
 				</p>
 
 
-			</div>
+			</div> -->
 
 		</div>
 
