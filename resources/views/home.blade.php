@@ -197,7 +197,7 @@
 						'Optimised a Django REST API, achieving improved response times of up to 25% and increased system reliability.',
 						'Improved responsiveness of the company\'s investor dashboard, built using Laravel and Vue.js.',
 						'Engineered a real-time data feed for crypto prices, aggregating information from exchanges like Binance and Kraken, providing trading bots with more accurate and up-to-date data, resulting in an average increase of 4% in trade placements.',
-						'Directed an AI project utilising machine learning to predict crypto prices, integrating the models with a trading bot that achieved a 67% win rate during paper trading.'
+						'Led an AI project utilising machine learning to predict crypto prices, integrating the models with a trading bot that achieved a 67% win rate during paper trading.'
 					]"
 				></work-experience>
 
@@ -224,7 +224,7 @@
 						'Designed the website using Laravel and Vue JS, resulting in a seamless user experience for hundreds of blockchain companies.',
 						'Facilitated frontend smart contract interaction using Web3.',
 						'Deployed with Docker, enhancing deployment speed and ensuring a consistent environment.',
-						'Configured the backend to use an NGINX server', 
+						'Configured the backend to use an NGINX server.', 
 						'Developed an API and several microservices for the website using the Flask module in Python',
 						'Built a entire CMS for those with admin privileges.'
 					]"
