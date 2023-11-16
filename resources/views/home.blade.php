@@ -225,7 +225,6 @@
 						'Facilitated frontend smart contract interaction using Web3.',
 						'Deployed with Docker, enhancing deployment speed and ensuring a consistent environment.',
 						'Configured the backend to use an NGINX server.', 
-						'Developed an API and several microservices for the website using the Flask module in Python',
 						'Designed and deployed various microservices using Portainer, making for a robust and modular system that is easily manageable.',
 						'Onboarded and managed a small team of freelancers, including a content writer, an SEO specialist, and a graphic designer.', 
 						'Built an entire CMS for those with admin privileges.'
