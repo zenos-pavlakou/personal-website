@@ -181,7 +181,7 @@
 				<work-experience
 					company="ARK36"
 					title="Backend Developer"
-					from-date="March 2022"
+					from-date="September 2022"
 					to-date="Present"
 					location="Larnaca"
 					intro="
@@ -263,7 +263,7 @@
 				<work-experience
 					company="Fiverr"
 					title="Freelance Developer"
-					from-date="Jan 2018"
+					from-date="January 2018"
 					to-date="May 2019"
 					location="Remote"
 					intro="
