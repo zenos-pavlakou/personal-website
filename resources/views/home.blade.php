@@ -45,7 +45,7 @@
 				<div class="programming-languages">
 					<progress-bar skill="Python" :val=8 :delay=9></progress-bar>
 					<progress-bar skill="PHP" :val=7 :delay=9.3></progress-bar>
-					<progress-bar skill="JS" :val=8 :delay=9></progress-bar>
+					<progress-bar skill="JS" :val=7 :delay=9></progress-bar>
 					<progress-bar skill="Node" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="Vue" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
@@ -133,7 +133,7 @@
 					<progress-bar skill="Python" :val=8 :delay=9></progress-bar>
 				</div>
 				<div class="flex-space-between">
-					<progress-bar skill="JS" :val=8 :delay=9></progress-bar>
+					<progress-bar skill="JS" :val=7 :delay=9></progress-bar>
 					<progress-bar skill="Node" :val=7 :delay=9.3></progress-bar>
 				</div>
 				<div class="flex-space-between">
