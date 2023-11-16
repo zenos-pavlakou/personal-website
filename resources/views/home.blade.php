@@ -182,7 +182,7 @@
 
 				<work-experience
 					company="ARK36"
-					title="Software Developer"
+					title="Backend Developer"
 					from-date="March 2022"
 					to-date="Present"
 					location="Larnaca"
