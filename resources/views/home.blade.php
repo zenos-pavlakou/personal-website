@@ -196,7 +196,7 @@
 						'Produced an automated system utilising the Google Sheets API to periodically update reports, resulting in significant daily time savings for the portfolio manager.', 
 						'Optimised a Django REST API, achieving improved response times of up to 25% and increased system reliability.',
 						'Improved responsiveness of the company\'s investor dashboard, built using Laravel and Vue.js.',
-						'Successfully upgraded the company's investor dashboard from Laravel 7 to Laravel 9, enhancing performance and security.',
+						'Successfully upgraded the company\'s investor dashboard from Laravel 7 to Laravel 9, enhancing performance and security.',
 						'Enhanced the investor dashboard by integrating session tracking software, resulting in the identification and resolution of numerous previously undetected issues.',
 						'Engineered a real-time data feed for crypto prices, aggregating information from exchanges like Binance and Kraken, providing trading bots with more accurate and up-to-date data, resulting in an average increase of 4% in trade placements.',
 						'Led an AI project utilising machine learning to predict crypto prices, integrating the models with a trading bot that achieved a 67% win rate during paper trading.'
