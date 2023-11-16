@@ -43,22 +43,21 @@
 				<hr>
 
 				<div class="programming-languages">
-					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
-					<progress-bar skill="CSS" :val=8 :delay=8.5></progress-bar>
-					<progress-bar skill="Web3" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="Python" :val=8 :delay=9></progress-bar>
+					<progress-bar skill="PHP" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="JS" :val=8 :delay=9></progress-bar>
 					<progress-bar skill="Node" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="Vue" :val=7 :delay=9.3></progress-bar>
-					<progress-bar skill="Solidity" :val=7 :delay=9.3></progress-bar>
+					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
+					<progress-bar skill="CSS" :val=8 :delay=8.5></progress-bar>
+					<progress-bar skill="Web3" :val=6 :delay=9.3></progress-bar>
+					<progress-bar skill="Solidity" :val=6 :delay=9.3></progress-bar>
 					<progress-bar skill="NGINX" :val=3 :delay=26></progress-bar>
 					<progress-bar skill="Laravel" :val=7 :delay=9.3></progress-bar>
 
 					<progress-bar skill="Django" :val=4 :delay=30></progress-bar>
 					<progress-bar skill="Machine Learning" :val=3 :delay=26></progress-bar>
 
-
-					<progress-bar skill="PHP" :val=7 :delay=9.3></progress-bar>
 					<progress-bar skill="Java" :val=4 :delay=26></progress-bar>
 					<progress-bar skill="Docker" :val=5 :delay=26></progress-bar>
 					<progress-bar skill="Git" :val=8 :delay=9></progress-bar>
@@ -124,12 +123,13 @@
 				<div id="-side-projects" style="position: absolute; top:-15px;"></div>
 				<h1 class="mb-3">Skills and proficiencies</h1>
 
+				
 				<div class="flex-space-between">
 					<progress-bar skill="HTML" :val=8 :delay=8></progress-bar>
 					<progress-bar skill="CSS" :val=8 :delay=8.5></progress-bar>
 				</div>
 				<div class="flex-space-between">
-					<progress-bar skill="Web3" :val=7 :delay=9.3></progress-bar>
+					<progress-bar skill="Web3" :val=6 :delay=9.3></progress-bar>
 					<progress-bar skill="Python" :val=8 :delay=9></progress-bar>
 				</div>
 				<div class="flex-space-between">
@@ -138,7 +138,7 @@
 				</div>
 				<div class="flex-space-between">
 					<progress-bar skill="Vue" :val=7 :delay=9.3></progress-bar>
-					<progress-bar skill="Solidity" :val=7 :delay=9.3></progress-bar>
+					<progress-bar skill="Solidity" :val=6 :delay=9.3></progress-bar>
 				</div>
 				<div class="flex-space-between">
 					<progress-bar skill="NGINX" :val=3 :delay=26></progress-bar>
