@@ -210,7 +210,7 @@
 
 				<work-experience
 					company="Crypto Multisender"
-					title="Founder & Developer"
+					title="Founder & Full-Stack Developer"
 					from-date="July 2018"
 					to-date="March 2022"
 					location="Remote"
