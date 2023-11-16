@@ -183,7 +183,7 @@
 				<work-experience
 					company="ARK36"
 					title="Software Developer"
-					from-date="March 2023"
+					from-date="March 2022"
 					to-date="Present"
 					location="Larnaca"
 					intro="
@@ -196,6 +196,8 @@
 						'Produced an automated system utilising the Google Sheets API to periodically update reports, resulting in significant daily time savings for the portfolio manager.', 
 						'Optimised a Django REST API, achieving improved response times of up to 25% and increased system reliability.',
 						'Improved responsiveness of the company\'s investor dashboard, built using Laravel and Vue.js.',
+						'Successfully upgraded the company's investor dashboard from Laravel 7 to Laravel 9, enhancing performance and security.',
+						'Enhanced the investor dashboard by integrating session tracking software, resulting in the identification and resolution of numerous previously undetected issues.',
 						'Engineered a real-time data feed for crypto prices, aggregating information from exchanges like Binance and Kraken, providing trading bots with more accurate and up-to-date data, resulting in an average increase of 4% in trade placements.',
 						'Led an AI project utilising machine learning to predict crypto prices, integrating the models with a trading bot that achieved a 67% win rate during paper trading.'
 					]"
@@ -210,7 +212,7 @@
 					company="Crypto Multisender"
 					title="Founder & Developer"
 					from-date="July 2018"
-					to-date="March 2023"
+					to-date="March 2022"
 					location="Remote"
 					intro="
 						<p>
@@ -226,6 +228,8 @@
 						'Deployed with Docker, enhancing deployment speed and ensuring a consistent environment.',
 						'Configured the backend to use an NGINX server.', 
 						'Developed an API and several microservices for the website using the Flask module in Python',
+						'Designed and deployed various microservices using Portainer, making for a robust and modular system that is easily manageable.',
+						'Onboarded and managed a small team of freelancers, including a content writer, an SEO specialist, and a graphic designer.', 
 						'Built a entire CMS for those with admin privileges.'
 					]"
 				></work-experience>
@@ -276,7 +280,8 @@
 					:bullet-points="[
 						'Collaborated with more than 50 clients, achieving 35 5-star reviews.',
 						'Launched over 20 custom ERC20 tokens.',
-						'Programmed ICO smart contracts, each with unique features and varying complexities.'	
+						'Programmed ICO smart contracts, each with unique features and varying complexities.',
+						'Managed multiple projects simultaneously in combination with university studies, all while maintaining a high quality of service.'	
 					]"
 				></work-experience>
 
